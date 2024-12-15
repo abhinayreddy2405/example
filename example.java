@@ -1,4 +1,4 @@
-public class example {
+public class example.java {
     public static void main(String[] args) {
         int rows = 5; // Number of rows
         // Upper part of the diamond
